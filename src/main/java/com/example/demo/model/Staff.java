@@ -1,4 +1,4 @@
 package com.example.demo.model;
 
-public class admin {
+public class Staff {
 }
